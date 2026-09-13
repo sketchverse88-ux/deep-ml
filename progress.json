@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:59:44.695Z",
+  "generated_at": "2026-09-15T17:59:46.406Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -135,6 +135,67 @@
       "last_pushed_at": "2026-09-12T15:50:37.272Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-13T05:33:39.509Z",
+      "last_pushed_at": "2026-09-13T05:33:39.509Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-13T06:47:27.424Z",
+      "last_pushed_at": "2026-09-13T06:47:27.424Z",
+      "language": "python",
+      "lines": 24
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-13T08:19:59.253Z",
+      "last_pushed_at": "2026-09-13T08:19:59.253Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-13T08:40:57.757Z",
+      "last_pushed_at": "2026-09-13T08:40:57.757Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-13T08:45:14.890Z",
+      "last_pushed_at": "2026-09-13T08:45:14.890Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
