@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:05:30.694Z",
+  "generated_at": "2026-09-19T20:15:06.801Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -368,6 +368,19 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-09-19T18:05:30.602Z",
       "last_pushed_at": "2026-09-19T18:05:30.602Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-19T20:15:03.108Z",
+      "last_pushed_at": "2026-09-19T20:15:03.108Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
