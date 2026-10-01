@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:50:46.569Z",
+  "generated_at": "2026-10-01T17:50:50.199Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -282,7 +282,7 @@
       "url": "https://www.deep-ml.com/math-problems/19",
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-09-19T15:16:38.876Z",
-      "last_pushed_at": "2026-10-01T17:50:46.032Z"
+      "last_pushed_at": "2026-10-01T17:50:49.445Z"
     },
     "math:33": {
       "kind": "math",
