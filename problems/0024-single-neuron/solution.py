@@ -6,7 +6,7 @@ def single_neuron_model(features: list[list[float]], labels: list[int], weights:
 
 	features = np.array(features)
 	weights = np.array(weights)
-	bias = np.array(bias)
+	# bias = np.array(bias)
 	labels = np.array(labels)
 
 	forward = features @ weights + bias
