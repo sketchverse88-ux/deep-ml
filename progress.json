@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:32:58.101Z",
+  "generated_at": "2026-10-26T17:49:49.154Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -427,6 +427,19 @@
       "path": "problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product",
       "first_solved_at": "2026-10-24T18:32:59.794Z",
       "last_pushed_at": "2026-10-24T18:32:59.794Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1271": {
+      "kind": "problem",
+      "id": "1271",
+      "title": "Tensor Puzzle: Extract the Diagonal",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1271",
+      "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
+      "first_solved_at": "2026-10-26T17:49:48.115Z",
+      "last_pushed_at": "2026-10-26T17:49:48.115Z",
       "language": "python",
       "lines": 9
     }
