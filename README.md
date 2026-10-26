@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**36** solved · 23 problems · 0 labs · 13 math
+**37** solved · 24 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-15 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-19 | [solution](problems/0024-single-neuron) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-10-26 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
+| [Tensor Puzzle: Identity Matrix from Comparisons](https://www.deep-ml.com/problems/1272) | easy | 2026-10-26 | [solution](problems/1272-tensor-puzzle-identity-matrix-from-comparisons) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-10-24 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-10-24 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-12 | [solution](problems/0002-transpose-of-a-matrix) |
