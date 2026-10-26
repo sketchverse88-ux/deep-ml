@@ -7,9 +7,9 @@ def eye(n: int) -> np.ndarray:
         row = []
         for num2 in range(n):
             if num == num2:
-                row.append(1)
+                row.append(1.0)
             else:
-                row.append(0)
+                row.append(0.0)
         matrix.append(row)
-    #matrix = np.ndarray(matrix)
+    matrix = np.array(matrix)
     return matrix 
