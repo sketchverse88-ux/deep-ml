@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:54:18.901Z",
+  "generated_at": "2026-10-27T17:57:13.106Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -492,6 +492,19 @@
       "path": "problems/1277-tensor-puzzle-circular-roll-by-one",
       "first_solved_at": "2026-10-27T17:54:18.889Z",
       "last_pushed_at": "2026-10-27T17:54:18.889Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1278": {
+      "kind": "problem",
+      "id": "1278",
+      "title": "Tensor Puzzle: Reverse a Vector",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1278",
+      "path": "problems/1278-tensor-puzzle-reverse-a-vector",
+      "first_solved_at": "2026-10-27T17:57:13.964Z",
+      "last_pushed_at": "2026-10-27T17:57:13.964Z",
       "language": "python",
       "lines": 7
     }
